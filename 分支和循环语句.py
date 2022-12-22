@@ -7,3 +7,4 @@ while i<=7:
 else:
     print("非常棒，你已经连续学习7天")
   
+//gethub真不错
